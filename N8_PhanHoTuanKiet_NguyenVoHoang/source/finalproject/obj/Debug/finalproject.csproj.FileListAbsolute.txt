@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\bin\Debug\finalproject.exe.config
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\bin\Debug\finalproject.exe
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\bin\Debug\finalproject.pdb
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.Main.resources
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.exe
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.pdb
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.Products.resources
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.GoodsReceived.resources
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.DeliveryNote.resources
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.StockReport.resources
+C:\Users\Administrator\Desktop\final project\finalproject\finalproject\obj\Debug\finalproject.RevenueReport.resources
